@@ -1,0 +1,1 @@
+Full path name of current directory
