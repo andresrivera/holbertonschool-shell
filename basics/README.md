@@ -2,4 +2,5 @@
 1-listit: lists all files and directories in actual directory
 2-bring_me_home: back to home directory
 3-listfiles: display current directory contents in a long format
-4-listmorefiles: lsit ALL files, including hidden files
+4-listmorefiles: list ALL files, including hidden files
+5-listfilesdigitonly: list all files, including hidden files, in long format
