@@ -8,4 +8,4 @@
 7-movethatfile: this command will move a file called betty from /tmp/ to /tmp/my_first_directory subdirectory
 8-firstdelete: deletes the file betty from /tmp/my_first_directory/ subdirectory
 9-firstdirdeletion: delete my_first_directory directory from /tmp/ directorythat is in 
-
+10-back: command that changes the working directory to the previous one
