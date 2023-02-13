@@ -4,3 +4,4 @@ SHELL PERMISSIONS
 1-who_am_i: coomand that prints the effective username of the current user
 2-groups: command that prints the current all the groups the current user ispart of
 3-new_owner: command that changes the owner of the file hello to the user betty
+4-empty: this commad create s empty file called hello
