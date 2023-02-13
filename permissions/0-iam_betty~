@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo chownwnn betty 0_iam_betty
+
