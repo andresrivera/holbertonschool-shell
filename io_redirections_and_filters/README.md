@@ -22,3 +22,6 @@ I/o Redirections and filters
 20-hiago: command  that removes all letters c and C from input.
 21-esreveR: command that reverse its input.
 22-users_and_homes: command that displays all users and their home directories, sorted by users.
+23-empty_casks: command that finds all empty files and directories in the current directory and all sub-directories.
+24-gifs: command  that lists all the files with a .gif extension in the current directory and all its sub-directories.
+25-acrostic: that decodes acrostics that use the first letter of each line.
