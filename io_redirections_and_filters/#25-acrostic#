@@ -1,0 +1,4 @@
+#!/bin/bash
+printf 'Ruben Esta\nDurmiendo en casa \nTodo el día
+
+' | cut -c 1      
