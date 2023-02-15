@@ -20,3 +20,5 @@ I/o Redirections and filters
 18-letteronly: Command that display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19-AZ:Command that replace all characters A and c from input to Z and e respectively.
 20-hiago: command  that removes all letters c and C from input.
+21-esreveR: command that reverse its input.
+22-users_and_homes: command that displays all users and their home directories, sorted by users.
