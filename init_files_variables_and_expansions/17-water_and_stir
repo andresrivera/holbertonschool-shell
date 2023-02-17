@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((8#((5#$WATER + 5#$STIR))))
+printf $((8#$((5#$WATER + 5#$STIR)))
